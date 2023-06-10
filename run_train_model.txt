@@ -1,0 +1,2 @@
+python models/research/object_detection/model_main_tf2.py --model_dir=ssd_custom --pipeline_config_path=ssd_custom/pipeline.config --num_trai
+n_steps=200
